@@ -117,5 +117,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+### MonoDevelop ###
+#User Specific
+*.userprefs
+*.usertasks
+
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
+
 
 # End of https://www.gitignore.io/api/c,unity
